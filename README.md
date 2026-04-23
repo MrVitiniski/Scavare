@@ -1,6 +1,6 @@
 # Scavare
 
-Um website criado para uma industria que busca mostrar para seus clientes e parceiros seu processo de ponta a ponta.
+Scavare Mineração: Onde a tecnologia encontra a eficiência. Conheça nossa operação integrada e o compromisso com a qualidade absoluta.
 
 ## 🌐 Visualize o projeto:
 
